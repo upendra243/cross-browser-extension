@@ -5,7 +5,7 @@
     "background_scripts": [
         "main.js"
     ], 
-    "homepage_url": "https://github.com/upendra243", 
+    "homepage_url": "https://github.com/upendra243/cross-browser-extension", 
     "version": "0.9.0", 
     "browser_button": {
         "caption": "Gmail Checker", 
