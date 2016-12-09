@@ -1,5 +1,5 @@
-# cross-browser-extension
-##Cross browser extension using Kango Framwork
+# cross-browser-extension Gamil Checker using Kango Framwork
+The extension will check number of unread messages on Gmail from time to time and show such number on a browser button.
 
 ## 1. Creation of new project
 Create a directory for the project and run kango.py from the framework directory:
