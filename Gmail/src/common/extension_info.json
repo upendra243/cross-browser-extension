@@ -1,0 +1,16 @@
+{
+    "content_scripts": [], 
+    "description": "The extension will check number of unread messages on Gmail from time to time and show such number on a browser button.", 
+    "creator": "Upendra Pratap Kushwaha<upendrapratap001@gmail.com", 
+    "background_scripts": [
+        "main.js"
+    ], 
+    "homepage_url": "https://github.com/upendra243", 
+    "version": "0.9.0", 
+    "browser_button": {
+        "caption": "Gmail Checker", 
+        "icon": "icons/button.png", 
+        "tooltipText": "Gmail Checker"
+    }, 
+    "name": "Gamil Checker"
+}

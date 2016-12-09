@@ -1,0 +1,20 @@
+{
+    "content_scripts": [], 
+    "description": "The extension will check number of unread messages on Gmail from time to time and show such number on a browser button.", 
+    "creator": "Upendra Pratap Kushwaha<upendrapratap001@gmail.com", 
+    "framework_version": "1.8.0 3dc957b83b36", 
+    "developer_id": "YOUR_SAFARI_DEVELOPER_ID", 
+    "background_scripts": [
+        "main.js"
+    ], 
+    "homepage_url": "https://github.com/upendra243", 
+    "version": "0.9.0", 
+    "framework_package_id": "dev", 
+    "browser_button": {
+        "caption": "Gmail Checker", 
+        "tooltipText": "Gmail Checker", 
+        "icon": "icons/button.png"
+    }, 
+    "id": "com.kangoextensions.checker", 
+    "name": "Gamil Checker"
+}
